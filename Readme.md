@@ -1,5 +1,7 @@
 # All About me
 
+### Hello, I'm Alex! Here's some information about myself.
+
 ### Where are you from?
 * [See Here](https://github.com/broken-admin/broken-admin/blob/master/where.md)
 
