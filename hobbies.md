@@ -9,3 +9,5 @@
     - Desktop programming
     - Ease-of-use tools
     - Bot programming
+    - General physics and astrophysics
+    - Mathematics, pure and applied
