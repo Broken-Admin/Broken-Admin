@@ -11,7 +11,7 @@
 ### What do you enjoy?
 * [See Here](https://github.com/broken-admin/broken-admin/blob/master/hobbies.md)
 
-### My Stats
+### How do I use my time on GitHub?
 [![Stats](https://github-readme-stats.vercel.app/api?username=broken-admin&show_icons=true&theme=tokyonight&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### TODO: "Go Back" link on subpages
