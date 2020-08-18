@@ -9,3 +9,6 @@
     - Git
     - Unix-like systems
     - Windows desktop and server systems
+
+## My Top Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
