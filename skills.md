@@ -12,3 +12,5 @@
 
 ## My Top Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=broken-admin&layout=compact)
+
+- [Go Back](https://github.com/broken-admin/broken-admin)
