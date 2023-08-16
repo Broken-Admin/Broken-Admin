@@ -1,2 +1,1 @@
-### For information about me...
-* [See Here](https://github.com/broken-admin/broken-admin/)
+
